@@ -1,3 +1,3 @@
 # hello-world
 
-BEHOLD MY POWER
+This will serve as a basic trial for creating and managing a repository in GitHub.
